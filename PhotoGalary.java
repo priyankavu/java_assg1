@@ -7,7 +7,7 @@ package ab;
 
 /**
  *
- * @author Abdul Bashir
+ * @author Priyanka
  */
 public class PhotoGalary extends javax.swing.JFrame {
 
